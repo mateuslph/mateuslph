@@ -1,6 +1,6 @@
 ### Olá eu sou Mateus 👋
 
-- 🔭 Atualmente estudo conceitos de programação.
+- 🔭 Atualmente estou me especializando em Java.
 
 <div align="center">
   <a href="https://github.com/mateuslph">
