@@ -22,15 +22,8 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/mateuslph">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuslph&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslph&layout=compact&langs_count=7&theme=merko"/>
-</div>
-  
-  ##
-  
-![Profile Summary Card](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmateuslph1212%2Fhit-counter)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuslph&show_icons=true&hide=issues&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslph&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
   
 ---
   
