@@ -6,7 +6,7 @@
 
 ---
 
-### Hard Skills:
+### 🚀 Hard Skills:
 
 ![Java](https://img.shields.io/static/v1?label=%20&message=Java&color=f5dd3a&logoColor=000000&style=for-the-badge&logo=OpenJDK)
 ![Spring Boot](https://img.shields.io/static/v1?label=%20&message=Spring%20Boot&color=6DB33F&logoColor=ffffff&style=for-the-badge&logo=Spring%20Boot)
@@ -31,7 +31,7 @@
 
 ---
   
-### Onde me encontrar:
+### 👨 Onde me encontrar:
 
   <a href="https://www.linkedin.com/in/mateus-lunkes-pereira-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mlptche@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
