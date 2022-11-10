@@ -1,8 +1,8 @@
 ## Olá eu sou Mateus 👋
 
 - 🎓 Formação: **Técnico em Desenvolvimento de Sistemas**;
-- 🔭 Atualmente estou me especializando em *Java* e seus *frameworks*;
 - 📖 Estudante de **Desenvolvimento Mobile Android**;
+- 📖 Estudante Bacharel de **Engenharia de Sotware**;
 
 ---
 
