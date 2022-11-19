@@ -9,7 +9,7 @@
 ### 🚀 Hard Skills:
 
 ![Java](https://img.shields.io/static/v1?label=%20&message=Java&color=f5dd3a&logoColor=000000&style=for-the-badge&logo=OpenJDK)
-![Spring Boot](https://img.shields.io/static/v1?label=%20&message=Spring%20Boot&color=6DB33F&logoColor=ffffff&style=for-the-badge&logo=Spring%20Boot)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
 ![Android](https://img.shields.io/static/v1?label=%20&message=Android&color=3DDC84&logoColor=ffffff&style=for-the-badge&logo=Android)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
 ![Javascript](https://img.shields.io/static/v1?label=%20&message=JavaScript&color=F7DF1E&logoColor=000000&style=for-the-badge&logo=JavaScript)
@@ -18,6 +18,7 @@
 ![Linux](https://img.shields.io/static/v1?label=%20&message=Linux&color=FCC624&logoColor=000000&style=for-the-badge&logo=Linux)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=Composer&logoColor=white)
