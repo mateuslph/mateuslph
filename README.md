@@ -1,5 +1,7 @@
 ## Olá eu sou Mateus 👋
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=mateuslph" alt="mateuslp" /></p>
+
 - 🎓 Formação: **Técnico em Desenvolvimento de Sistemas**;
 - 📖 Estudante de **Desenvolvimento Mobile Android**;
 - 📖 Estudante Bacharel de **Engenharia de Sotware**;
