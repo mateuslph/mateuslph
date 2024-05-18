@@ -2,9 +2,9 @@
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=500&lines=Olá+%F0%9F%91%8B+;eu+sou+Mateus+Lunkes+Pereira;Estou+atento+as+novidades+%F0%9F%91%80+;e+se+quiser+podemos+nos+ajudar!+%F0%9F%92%AC"></div>
 
+- 🎓 Formação: **Estudante Bacharel de Engenharia de Sotware**;
 - 🎓 Formação: **Técnico em Desenvolvimento de Sistemas**;
-- 📖 Estudante de **Desenvolvimento Mobile Android**;
-- 📖 Estudante Bacharel de **Engenharia de Sotware**;
+- 📖 Conhecimentos em Programação Back-end e Front-end através da plataforma <a href="https://www.alura.com.br/">Alura</a>, somando-se 1020 horas aulas;
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mateuslph" alt="mateuslp" /></p>
 
